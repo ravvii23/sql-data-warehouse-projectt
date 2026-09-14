@@ -140,8 +140,8 @@ This repository documents one of my learning projects focused on modern data war
 9. SQL Reporting
 
 
-   ## Future Improvements:
-   Future Improvements
+## Future Improvements:
+  
 
   Power BI Dashboard
 
